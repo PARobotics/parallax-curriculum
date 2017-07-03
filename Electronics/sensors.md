@@ -10,7 +10,7 @@ Buttons are digital sensors which output either 0 or 1 depending on whether the 
 Similar to buttons, limit switches are also digital sensors that output a 0 or 1 depending on whether the metal appendage is pushed all the way down or not. This makes it useful for detecting when a moving piece has reached its limit (hence the name). For example, the limit switch can be set up next to a rotating arm, and can be programmed so that when the arm compresses the limit switch, it stops. The metal arm is fragile though, so don’t apply too much load to it.
 
 
-![Limit Switch](./Graphics/limitswitch.jpg)
+![Limit Switch](./Graphics/limit.jpg)
 
 ## Ultrasonic Sensor 
 Ultrasonic sensors are digital sensors that can detect distance in terms of centimeters. They will output the distance to the first object within their field of view, so be sure to place the sensor with a good range of vision and don’t cover it’s line of sight with anything. It can be used for a variety of purposes, like detecting obstacles before hitting them. 
