@@ -2,18 +2,17 @@
 Using sensors is essential to programming effectively: they tell you vital details about the robot and its surroundings, allowing you to respond accordingly. Below is a guide describing the function and use cases of each sensor. 
  
 ## Button
-Buttons are digital sensors which output either 0 or 1 depending on whether the button is pressed or not. They are useful as user input (i.e. having a button on the robot to press during pre autonomous), but can also be used to detect events such as collisions (if the button is compressed from hitting a wall). Keep in mind, buttons require a bit of force to push down fully.
+Buttons are digital sensors which output either 0 or 1 depending on whether they are pressed or not. They are useful as user input (i.e. having a button on the robot to press during pre autonomous), but can also be used to detect events such as collisions (if the button is compressed from hitting a wall). They are fairly durable, and can survive a collision, but need to be hit head on and require some force to fully compress. 
 
 ![Button](./Graphics/button.jpg)  
 
 ## Limit Switch
 Similar to buttons, limit switches are also digital sensors that output a 0 or 1 depending on whether the metal appendage is pushed all the way down or not. This makes it useful for detecting when a moving piece has reached its limit (hence the name). For example, the limit switch can be set up next to a rotating arm, and can be programmed so that when the arm compresses the limit switch, it stops. The metal arm is fragile though, so don’t apply too much load to it.
 
-
 ![Limit Switch](./Graphics/limit.jpg)
 
 ## Ultrasonic Sensor 
-Ultrasonic sensors are digital sensors that can detect distance in terms of centimeters. They will output the distance to the first object within their field of view, so be sure to place the sensor with a good range of vision and don’t cover it’s line of sight with anything. It can be used for a variety of purposes, like detecting obstacles before hitting them. 
+Ultrasonic sensors are digital sensors that can detect distance in terms of centimeters. They will output the distance to the first object within their field of view, so be sure to place the sensor with a good range of vision and don’t cover its line of sight with anything. It can be used for a variety of purposes, like detecting obstacles before hitting them. 
 
 ![Ultrasonic Sensor](./Graphics/ultrasonic.jpg)
 
