@@ -2,7 +2,7 @@
 While it may seem boring and unimportant, documenting the building of a robot is vital. Not only can you look back and see what you have done, you can also improve on previous ideas. It also helps with troubleshooting, and the judges at competitions love to see these.
 
 ## How do I document a building step?
-To document a building step, you need to act like you’re explaining the concept and design to a complete blithering idiot (given that this idiot knows the rules of VEX very well). Don’t take any knowledge for granted. The judges won’t know what you are talking about. Remember, they don’t usually talk to you. The only impression they have of the robot and the team is from the Engineering Notebook. That is why it is very important to explain everything clearly in detail.
+To document a building step, you need to act like you’re explaining the concept and design to someone who will understand absolutely nothing. Don’t take any knowledge for granted. The judges won’t know what you are talking about. Remember, they don’t usually talk to you. The only impression they have of the robot and the team is from the Engineering Notebook. That is why it is very important to explain everything clearly in detail.
 
 ## Wording
 Try to stick to third person/passive perspective. The judges don’t need to hear about the people. They care about what’s going on with the robot. Say "this was added to the robot" instead of "we added this to the robot".
