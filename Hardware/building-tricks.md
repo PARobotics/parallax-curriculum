@@ -18,3 +18,12 @@ Plexiglass can be really hard to cut into the shapes you want: It usually comes 
 ![](./Graphics/plexiglass-4.jpg)
 
 ## A More Compact L-Bracket
+If you want to mount something horizontally (meaning the screw holes face outward instead of up), you can always use an L-Bracket. However, these are too large for certain tasks, and if you just want to do something simple (like mounting a license plate), you can try the following trick: 
+
+1) Take a shaft collar and remove the screw inside. 
+
+![](./Graphics/shaftcollar-1.jpg)
+
+2) One screw can be put through the shaft collar, and another one can be screwed in the original screw hole. These screws are perpendicular, so this setup can be used as a replacement for an L-Bracket. 
+
+![](./Graphics/shaftcollar-2.jpg)
