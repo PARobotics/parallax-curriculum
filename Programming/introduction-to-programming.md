@@ -25,6 +25,8 @@ At its core, programming a robot is about controlling a robot’s motors. Here�
 
 First, set up a motor by clicking “Motor and Sensor Setup” in RobotC. Set up a Motor 393 in the port that motor is plugged into, and give it a name (let’s say `M_TEST`). You can also reverse a motor in this panel, which reverses its direction. 
 
+![](./Graphics/motor.jpg)
+
 Next, actually controlling the motor. Motors are controlled by setting their “voltage”. They accept a voltage from -127 to 127 volts, where the larger magnitude voltages make the motor move faster and with more torque, and a voltage of 0 stops the motor. To set a motors voltage:
 
 ```
