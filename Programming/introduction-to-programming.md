@@ -66,7 +66,7 @@ while(1){ //In user control
 Check out a sample program with controls, motors, and everything else over at [Github](https://github.com/PARobotics/parallax-curriculum/blob/master/Programming/Examples/putting_it_together.c).
 
 ## The Way We Code
-Lorem ipsum
+The bigger picture.
 
 ### Robotics Library
 There’s a lot of the same code we have to write each year, so we’ve created a library that bundles a lot of commonly used features. Its available [here](https://github.com/PARobotics/parallax-library) (instructions included). 
