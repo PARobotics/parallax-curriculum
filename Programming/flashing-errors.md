@@ -2,7 +2,7 @@
 RobotC can occasionally be tricky when downloading (flashing) code to your robot. Here’s a list of common errors and how to solve them: 
 
 ## “No Communications Link Available”
-If you get the error below, ROBOTC does not detect a robot connected to your computer. This error should not occur if you are using a wired connection (USB port to robot’s USB port), but if it does, just verify that everything is plugged in properly and the robot is power on. If you are using a wireless connection (USB port to joystick which is connected to robot), verify that the robot is connected to the joystick and that the joystick is plugged into the computer. If you still get this error, go to Windows Device Manager and check that you have the correct drivers for the programming kit. Driver downloads are available at [vexrobotics.com/vexedr/resources/firmware](https://www.vexrobotics.com/vexedr/resources/firmware). 
+If you get the error below, ROBOTC does not detect a robot connected to your computer. This error should not occur if you are using a wired connection (USB port to robot’s USB port), but if it does, just verify that everything is plugged in properly and the robot is power on. If you are using a wireless connection (USB port to joystick which is connected to robot), verify that the robot is connected to the joystick and that the joystick is plugged into the computer. If you still get this error, go to Windows Device Manager and check that you have the correct drivers for the programming kit. Read [this article](https://github.com/PARobotics/parallax-curriculum/blob/master/Programming/device-drivers.md) for help installing drivers.
 
 ![](Graphics/nocommunication.png)
 
