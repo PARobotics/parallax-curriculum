@@ -4,7 +4,7 @@ A significant part of creating an effective competition robot is programming it.
 ## Getting Started
 In order to program, you will need a computer with Windows on it. If you do not have one, there is a desktop computer in the robotics room with all the necessary software on it. 
 
-However, if you want to program on your own computer you need to install RobotC, which allows you to download and compile robotics code. You can also write your code here, but we recommend a different editor (like [Atom](http://atom.io)). Next, you will need to install some device drivers onto your machine in order to actually connect to the robot and download source code. See how to do that here (ADD LINK HERE). 
+However, if you want to program on your own computer you need to install RobotC, which allows you to download and compile robotics code. You can also write your code here, but we recommend a different editor (like [Atom](http://atom.io)). Next, you will need to install some device drivers onto your machine in order to actually connect to the robot and download source code. See how to do that [here](https://github.com/PARobotics/parallax-curriculum/blob/master/Programming/device-drivers.md).
 
 ### Helpful Resources:
 [Vex Forum](https://www.vexforum.com): If you run into really complex problems and are out of solutions, try asking here!
